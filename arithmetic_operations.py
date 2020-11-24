@@ -23,3 +23,4 @@ print(3 == 2)    # False, because 3 is not equal to 2
 print(3 != 2)    # True, because 3 is not equal to 2
 
 print(len('mango'))
+print(len('dog'))
