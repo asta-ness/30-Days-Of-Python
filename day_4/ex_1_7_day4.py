@@ -23,4 +23,8 @@ print(company_name.upper())
 print(company_name.lower())
 
 #ex8-
+print(company_name.capitalize())
+print(company_name.title())
+print(company_name.swapcase())
+
 
